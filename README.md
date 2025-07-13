@@ -1,4 +1,4 @@
-#  11579_springboot100精准扶贫管理系统
+#  11579_springboot精准扶贫管理系统
  
 # 项目资料包含：
 * 前后端源代码+SQL脚本
@@ -7,7 +7,7 @@
 
 # 项目资料获取方式
 * 需要资料或者有任何问题的加QQ：2684634017
-* 项目源代码下载地址:http://blog.codercode.cn/#/home/goodDetail?goodId=11579
+* 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=11579
 
 * 项目演示视频:  https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/330%E5%A5%97springboot%E5%BD%95%E5%83%8F/11579_springboot100%E7%B2%BE%E5%87%86%E6%89%B6%E8%B4%AB%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E5%BD%95%E5%83%8F.mp4
 
